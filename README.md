@@ -59,7 +59,7 @@ Coursework from Politecnico di Milano lives on [alessandromarinapolimi][academic
 | ------------------------------ | -------------------------- | -------- | ---------------------------------------------------------------------------- |
 | [IS24_LB02][is]                | Ingegneria del Software    | Java     | Multiplayer Codex Naturalis: client-server, MVC, TUI and GUI clients         |
 | [PFAPI24][pfapi]               | Algoritmi e Strutture Dati | C        | Discrete-time bakery inventory simulator under strict time and memory limits |
-| [ProgettoSoftware_2025][rota]  | Progetto Software          | Java     | Multiplayer ROTA (Terni Lapilli): client-server, MVC, GUI and CLI clients    |
+| [ProgettoSoftware_2025][rota]  | Progetto Software          | Java     | Multiplayer ROTA (Terni Lapilli): client-server, MVC, GUI client             |
 | [ProgettoRetiLogiche_2024][rl] | Reti Logiche               | VHDL     | Fixed-point sine calculator: lookup table, interpolation, symmetry           |
 
 Codex Naturalis and the bakery simulator were both graded 30/30 cum laude. Codex Naturalis is a
