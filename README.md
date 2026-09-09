@@ -30,10 +30,10 @@ it when it is worth someone else's time.
   fast, build the front ends in React and TypeScript with Next.js, and write the back end in C# on
   .NET. I have also helped migrate many of our applications from .NET 3.1 to .NET 8. When the lead
   is away, delivery and architecture are my call.
-- **Software developer, CGM Telemedicine** (Oct 2024 to Dec 2024, an internship that turned into a
-  contract). I moved a C# codebase of more than a hundred classes from database-first to code-first
-  with Entity Framework Core, ported a production app from Xamarin to .NET MAUI, and designed in
-  Figma the UX of a medical-device platform, working with the Air Liquide team.
+- **Software engineering intern, CGM Telemedicine** (Oct 2024 to Dec 2024, a university internship).
+  I moved a C# codebase of more than a hundred classes from database-first to code-first with Entity
+  Framework Core, ported a production app from Xamarin to .NET MAUI, and designed in Figma the UX of
+  a medical-device platform, working with the Air Liquide team.
 - **Web designer and developer, Arcobaleno SRLS** (Jul 2024 to Oct 2024). I designed and built the
   company website alone, from the sitemap to the front end.
 
