@@ -66,8 +66,8 @@ hard time and memory limits. Two of those projects were graded 30/30 cum laude.
 ## Spoken languages
 
 Italian is my first language. I work in English: Cambridge First Certificate B2 at 179/190, after a
-CLIL secondary track. I also have an A1 certificate in Japanese from Politecnico di Milano, and
-elementary Russian.
+CLIL secondary track. I took a Japanese course at Politecnico di Milano, up to roughly A2, and I
+know elementary Russian.
 
 ## Contact
 
