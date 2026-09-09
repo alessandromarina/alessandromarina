@@ -28,9 +28,9 @@ it when it is worth someone else's time.
 - **Software developer, H&S Engineering** (Mar 2025 to present). H&S builds IoT sensors, messaging
   platforms and business software for multinationals. On Gestanova I keep the system stable and
   fast, build the front ends in React and TypeScript with Next.js, and write the back end in C# on
-  .NET. I have also migrated many of our applications between .NET versions: .NET Framework 4.5,
-  .NET Core 3.1, .NET 8 and .NET 9, with the target chosen per application. When the lead is away,
-  delivery and architecture are my call.
+  .NET. I have also migrated many of our applications between .NET versions: .NET Framework 4.5
+  and 4.8, .NET Core 3.1, .NET 8 and .NET 9, with the target chosen per application. When the lead
+  is away, delivery and architecture are my call.
 - **Software engineering intern, CGM Telemedicine** (Oct 2024 to Dec 2024, a university internship).
   I moved a C# codebase of more than a hundred classes from database-first to code-first with Entity
   Framework Core, ported a production app from Xamarin to .NET MAUI, and designed in Figma the UX of
