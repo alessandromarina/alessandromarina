@@ -39,8 +39,9 @@ it when it is worth someone else's time.
   company website alone, from the sitemap to the front end.
 
 Before that: IT consulting and systems administration for two businesses, a curricular internship at
-AMADA Italia, and a volunteer internship at Unione Parkinsoniani. I was also one of five leads on an
-extracurricular taskforce for the Italian ANPR population register. Full history on
+AMADA Italia, and a volunteer internship at Unione Parkinsoniani. At my secondary school I led one
+of the five teams on an automatic number plate recognition system that opened a gate for cleared
+vehicles. My team wrote the Python engine behind the camera and the gate. Full history on
 [LinkedIn][linkedin].
 
 ## Projects
