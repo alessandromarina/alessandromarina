@@ -55,7 +55,7 @@ vehicles. My team wrote the Python engine behind the camera and the gate. Full h
 - **[Breadcrumb][crumb]** (React, TypeScript). A breadcrumb that measures itself and gives up as
   little as the space demands: full labels, then initials, then the tail behind an ellipsis. Five
   skins again, and a screenshot script that fails if a row would be clipped.
-- **[TooLoL.gg](toolol.gg)** (JavaScript, HTML, CSS). Front end and REST backend, both JavaScript.
+- **[TooLoL.gg](toolol)** (JavaScript, HTML, CSS). Front end and REST backend, both JavaScript.
 - **LifeLyst** (Kotlin, Prisma). A Kotlin client on a Prisma API. Not published yet.
 
 ## University work
@@ -80,4 +80,4 @@ know elementary Russian.
 [alloc]: https://github.com/alessandromarina/memory-allocator
 [tree]: https://github.com/alessandromarina/VirtualizedTree
 [crumb]: https://github.com/alessandromarina/Breadcrumb
-[toolol.gg]: https://toolol.gg/
+[toolol]: https://toolol.gg/
