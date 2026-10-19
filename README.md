@@ -55,9 +55,8 @@ vehicles. My team wrote the Python engine behind the camera and the gate. Full h
 - **[Breadcrumb][crumb]** (React, TypeScript). A breadcrumb that measures itself and gives up as
   little as the space demands: full labels, then initials, then the tail behind an ellipsis. Five
   skins again, and a screenshot script that fails if a row would be clipped.
-- **TooLoL** (JavaScript, HTML, CSS). Front end and REST backend, both JavaScript. It is not
-  published.
-- **LifeLyst** (Kotlin, Prisma). A Kotlin client on a Prisma API. Not published either.
+- **TooLoL** (JavaScript, HTML, CSS). Front end and REST backend, both JavaScript. [LINK](https://toolol.gg/).
+- **LifeLyst** (Kotlin, Prisma). A Kotlin client on a Prisma API. Not published yet.
 
 ## University work
 
